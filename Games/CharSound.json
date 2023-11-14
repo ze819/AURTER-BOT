@@ -1,66 +1,66 @@
 [
-  {
-    "name": "اكيهيتا",
-    "voice": "https://a.tumblr.com/tumblr_o0xhd36TFO1t0a2ydo1.mp3"
-  },
-  {
-    "name": "ميليوداس",
-    "voice": "https://a.tumblr.com/tumblr_nl2wo624FG1t0a2ydo1.mp3"
-  },
-  {
-    "name": "ارمين",
-    "voice": "https://a.tumblr.com/tumblr_n4952akcMz1t0a2ydo1.mp3"
-  },
-  {
-    "name": "زورو",
-    "voice": "https://a.tumblr.com/tumblr_n4943rn6aM1t0a2ydo1.mp3"
-  },
-  {
-    "name": "ياتو",
-    "voice": "https://a.tumblr.com/tumblr_n3yxjfVsVm1t0a2ydo1.mp3"
-  },
-  {
-    "name": "كاغياما",
-    "voice": "https://a.tumblr.com/tumblr_n3y6vtY3cy1t0a2ydo1_r1.mp3"
-  },
-  {
-    "name": "كوروكو",
-    "voice": "https://a.tumblr.com/tumblr_n13ga9XDby1t0a2ydo1.mp3"
-  },
-  {
-    "name": "غون",
-    "voice": "https://a.tumblr.com/tumblr_n0uziu1ElA1t0a2ydo1.mp3"
-  },
-  {
-    "name": "جينتوكي",
-    "voice": "https://a.tumblr.com/tumblr_n03anyluAv1t0a2ydo1.mp3"
-  },
-  {
-    "name": "تسوكيشيما",
-    "voice": "https://a.tumblr.com/tumblr_pf9mizmrJf1rni2aqo1.mp3"
-  },
-  {
-    "name": "ادوارد",
-    "voice": "https://a.tumblr.com/tumblr_peux3mlH4x1rni2aqo1.mp3"
-  },
-  {
-    "name": "جينوس",
-    "voice": "https://a.tumblr.com/tumblr_o0f6a92Or31rni2aqo1.mp3"
-  },
-  {
-    "name": "زابوزا",
-    "voice": "https://a.tumblr.com/tumblr_n8eu2pNL0D1rni2aqo1.mp3"
-  },
-  {
-    "name": "لولوش",
-    "voice": "https://a.tumblr.com/tumblr_mnh7obF8711rni2aqo1.mp3"
-  },
-  {
-    "name": "ميكاسا",
-    "voice": "https://a.tumblr.com/tumblr_mxkga6MpVF1t0a2ydo1.mp3"
-  },
-  {
-    "name": "ناروتو",
-    "voice": "https://a.tumblr.com/tumblr_mwut6eG6Ng1t0a2ydo1.mp3"
+    {
+        "voice": "https://a.tumblr.com/tumblr_o0xhd36TFO1t0a2ydo1.mp3",
+        "name": "اكيهيتا"
+    },
+    {
+        "voice": "https://a.tumblr.com/tumblr_nl2wo624FG1t0a2ydo1.mp3",
+        "name": "ميليوداس"
+    },
+    {
+        "voice": "https://a.tumblr.com/tumblr_n4952akcMz1t0a2ydo1.mp3",
+        "name": "ارمين"
+    },
+    { 
+        "voice": "https://a.tumblr.com/tumblr_n4943rn6aM1t0a2ydo1.mp3",
+        "name": "زورو"
+    },
+    { 
+        "voice": "https://a.tumblr.com/tumblr_n3yxjfVsVm1t0a2ydo1.mp3",    
+        "name": "ياتو"
+    },
+    { 
+        "voice": "https://a.tumblr.com/tumblr_n3y6vtY3cy1t0a2ydo1_r1.mp3",
+        "name": "كاغياما"
+    },
+    { 
+        "voice": "https://a.tumblr.com/tumblr_n13ga9XDby1t0a2ydo1.mp3",
+        "name": "كوروكو"
+    },
+    { 
+        "voice": "https://a.tumblr.com/tumblr_n0uziu1ElA1t0a2ydo1.mp3",
+        "name": "غون"
+    },
+    {
+        "voice": "https://a.tumblr.com/tumblr_n03anyluAv1t0a2ydo1.mp3",
+        "name": "جينتوكي"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_pf9mizmrJf1rni2aqo1.mp3",
+       "name": "تسوكيشيما"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_peux3mlH4x1rni2aqo1.mp3",
+       "name": "ادوارد"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_o0f6a92Or31rni2aqo1.mp3",
+       "name": "جينوس"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_n8eu2pNL0D1rni2aqo1.mp3",
+       "name": "زابوزا"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_mnh7obF8711rni2aqo1.mp3",      
+       "name": "لولوش
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_mxkga6MpVF1t0a2ydo1.mp3",
+       "name": "ميكاسا"
+    },
+    {
+       "voice": "https://a.tumblr.com/tumblr_mwut6eG6Ng1t0a2ydo1.mp3",
+       "name": "ناروتو"
   }
 ]
